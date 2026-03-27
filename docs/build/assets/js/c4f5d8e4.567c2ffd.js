@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([["6130"],{75145:function(e,s,c){c.r(s),c.d(s,{default:()=>t});var o=c(85893);c(67294);var r=c(16550);let t=function(){return(0,o.jsx)(r.l_,{to:"/choose-framework-page"})}}}]);

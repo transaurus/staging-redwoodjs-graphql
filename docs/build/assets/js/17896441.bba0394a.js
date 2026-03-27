@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([["87048"],{3448:function(s,t,u){u.d(t,{Z:()=>r});var c=u(85893);u(67294);var e=u(76009),n=u(95939);let r={...u(78369).Z,ShowForTs:function({children:s}){let[t]=(0,e.Nk)("docusaurus.tab.js-ts");return"ts"===t&&(0,c.jsx)(n.Z,{children:s})}}}}]);

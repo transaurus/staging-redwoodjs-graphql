@@ -1,0 +1,5 @@
+[build]
+  base = "docs"
+  publish = "build"
+  command = "yarn build"
+  ignore = "node ignore_build.mjs"

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([["89813"],{94984:function(e){e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"GraphQL","slug":"graphql/index","permalink":"/docs/7.x/graphql/index","sidebar":"main","navigation":{"previous":{"title":"Forms","permalink":"/docs/7.x/forms"},"next":{"title":"About","permalink":"/docs/7.x/graphql"}}}}')}}]);
