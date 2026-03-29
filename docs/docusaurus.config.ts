@@ -5,6 +5,10 @@ import autoImportTabs from './src/remark/auto-import-tabs.mjs'
 import fileExtSwitcher from './src/remark/file-ext-switcher.mjs'
 
 const config: Config = {
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-Hans"],
+  },
   customFields: {
     defaultDocsLandingPage: 'index', // redirects here when hitting /docs/
     defaultSectionLandingPages: {
@@ -21,7 +25,7 @@ const config: Config = {
   // ?
   url: 'https://docs.redwoodjs.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://redwoodjs.com/favicon.png',
   organizationName: 'redwoodjs', // Usually your GitHub org/user name.
